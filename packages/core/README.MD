@@ -1,0 +1,3 @@
+# Core
+
+This folder is used for core ressources like components, styles, types, routes...
